@@ -6,4 +6,4 @@
 # Step #3 
 	https://www.java2blog.com/restful-web-services-jaxrs-json-example/
 # Step #4
-Launch via Postmen http://localhost:8080/RESTfulWebServiceExample/rest/ConversionService/FeetToInch/2
+Launch via Postman http://localhost:8080/RESTfulWebServiceExample/rest/ConversionService/FeetToInch/2
